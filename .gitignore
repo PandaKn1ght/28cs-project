@@ -1,0 +1,12 @@
+# 本地工具配置，不上传
+.zcode/
+
+# Python 常见
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 系统文件
+Thumbs.db
+.DS_Store
